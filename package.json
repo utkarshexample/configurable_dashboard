@@ -10,6 +10,7 @@
   "author": "utkarsh",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "gridstack": "^4.2.6"
   }
 }
